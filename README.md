@@ -219,13 +219,6 @@ Ensure you have the following components ready:
 - [Performance Optimization](docs/performance.md)
 - [Security Best Practices](docs/security.md)
 
----
-
-<div align="center">
-
-## 🏆 Awards & Recognition
-
-*"Best Integration of AI and ITSM" - IT Innovation Summit 2024*
 
 ---
 
