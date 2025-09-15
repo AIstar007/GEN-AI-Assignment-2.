@@ -1,8 +1,8 @@
-# AI-Foundry-ITOPS
+# ITOPS
 
 
 
-# Installer_Bot
+# MCP_Installer_Bot
 
 A bot that echoes back user response
 
