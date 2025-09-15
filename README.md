@@ -228,6 +228,5 @@ Ensure you have the following components ready:
 
 ![Workflow](https://img.shields.io/badge/Workflow-AI_Powered-gold?style=for-the-badge)
 ![Automation](https://img.shields.io/badge/Automation-End_to_End-success?style=for-the-badge)
-![Innovation](https://img.shields.io/badge/Innovation-Award_Winning-ff6b6b?style=for-the-badge)
 
 </div>
