@@ -226,7 +226,6 @@ Ensure you have the following components ready:
 
 *Built with ❤️ using cutting-edge AI and enterprise automation*
 
-![Workflow](https://img.shields.io/badge/Workflow-AI_Powered-gold?style=for-the-badge)
 ![Automation](https://img.shields.io/badge/Automation-End_to_End-success?style=for-the-badge)
 
 </div>
